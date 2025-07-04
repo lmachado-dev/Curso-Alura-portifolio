@@ -1,1 +1,1 @@
-Atual funcionamento em https://curso-alura-portifolio-nu.vercel.app.
+Atual funcionamento em https://lmachado-dev.github.io/Portifolio-Joana/
